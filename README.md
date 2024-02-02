@@ -15,7 +15,7 @@ TravelSwap is an online travel agency platform that allows users to search for a
 TravelSwap partners with community and brands in order to facilitate their travel. Partners include:
  - Pudgy Penguins
  - Token2049
- - VeeCon
+ - Shrapnel
  - [and more](https://travelswap.xyz/sitemap/partners)
  
 It also partners with crypto platforms/blockchains such as:

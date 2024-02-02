@@ -28,7 +28,7 @@ It also partners with crypto platforms/blockchains such as:
  - Add Flights / Rentals
 
 TravelSwap is currenlty raising funds to scale the business and attract more talent to help develop the platform.
-We are currently seeking developers to assist us. As part of this, we offer work packages or bounties. Additionally, there is the possibility of a full-time position.
+We are currently seeking developers to assist us. As part of this, we offer bounties. Additionally, there is the possibility of a full-time position.
 
 ## Tech Stack
 
@@ -62,11 +62,11 @@ The backend interacts with Gemini (fiat offramp) and Expedia (hotel provider). I
  
 ##### Package 1 (Testing): Improve backend test coverage adding Integration Test and Unit tests.
  
-Currently there's some test coverage however this needs to be improved in order to stabilize the backend.
+Currently there's partial test coverage however this needs to be improved in order to stabilize the backend.
 
 ##### Package 2 (Dev Ops): Setup a more robust CI/CD pipeline.
 
-Currently the backend runs a github action that builds and tests the project. Deployments are done by hand by ssh into a dev/prd server.
+Upon merging the backend runs a simple github action which builds and tests the project. Deployments are done manually.
 
 ##### Package 3 (Refactoring): Decouple service and interface.
 
@@ -81,11 +81,11 @@ We currently use the location search typeahead api of Expedia. However this is n
 
 ##### Package 1 (Testing): Setup E2E testing using Playwright.
 
-Currently the front-end is quite vulnarable to bugs, due to missing E2E tests and low coverage. Implement E2E with few implementations as basis.
+Currently the front-end is quite vulnarable to bugs, due to missing E2E tests and low test coverage. Implement E2E with few implementations as basis.
 
 ##### Package 2 (Testing): Add more unit tests.
 
-Currently there's some test coverage however this needs to be improved in order to cover all FE logic.
+Currently there's partial test coverage however this needs to be improved in order to cover all FE logic.
 
 ##### Package 3 (Refactoring): Extract payment logic into own package.
 

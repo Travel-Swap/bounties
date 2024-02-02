@@ -1,4 +1,12 @@
-# Travelswap Bounties
+<div align="center">
+<a href="https://travelswap.xyz">
+  <img width="400px" alt="Travelswap – Book Hotels, Resorts & Vacation Rentals with crypto today." src="https://travelswap.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain_text.99221128.webp&w=1080&q=75">
+  <h1 align="center">Bounties</h1>
+</a>
+</div>
+
+
+[https://travelswap.xyz](https://travelswap.xyz)
 
 ## Intro
 
@@ -94,5 +102,12 @@ There's many new features to be build. They are defined in are Trello and includ
 
 ### Compensation
 
-range:  40 - 100 $/hr
-paid in: USDC
+- range:  40 - 100 $/hr
+- paid in: USDC
+
+<br/>
+
+**contact**
+- twitter: @magiclars
+- discord: magiclars
+- github:  magiclars-off

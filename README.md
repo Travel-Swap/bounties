@@ -48,19 +48,17 @@ Whole booking / payment flow, handles all web3 related interactions.
 
 ### Backend
 
-The backend interacts with Gemini (fiat offramp) and Expedia (hotel provider). It exposes an API and GraphQL for the FE to interact with.
+The backend interacts with Gemini (fiat offramp) and Expedia (hotel provider). It exposes an API for the FE to consume.
 
 - [Go](https://go.dev/doc/install)
 - [Postgres](https://www.postgresql.org/) - database
-- [GraphQL](https://graphql.org/) - api querying
-
 
 
 ## Work Packages
 
 ### Backend
  
-##### Package 1 (Testing): Improve backend test coverage adding Integration Test and Unit tests.
+##### Package 1 (Testing): Improve backend test coverage adding Integration Test and Unit tests. (In Progress)
  
 Currently there's partial test coverage however this needs to be improved in order to stabilize the backend.
 
@@ -68,7 +66,7 @@ Currently there's partial test coverage however this needs to be improved in ord
 
 Upon merging the backend runs a simple github action which builds and tests the project. Deployments are done manually.
 
-##### Package 3 (Refactoring): Decouple service and interface.
+##### Package 3 (Refactoring): Decouple service and interface. (In Progress)
 
 Skilled Golang dev can possibly help restructure the backend making it more robust and expandable.
 
